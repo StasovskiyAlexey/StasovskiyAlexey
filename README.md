@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&height=200&color=black&text=Front-End%20Developer&fontColor=fff&fontAlign=50&animation=fadeIn&desc=Developer%20with%20experience%20in%20React,%20Next.js,%20TypeScript,%20and%20Tailwind,%20developing%20websites%20of%20varying%20complexity&descAlign=50&descAlignY=78&descSize=15&textBg=false)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=random&text=Full%20Stack%20Developer&reversal=false&section=header&textBg=false&fontColor=fff)
 
 ### 👋 Hello World!  
 I'm a **Frontend Developer** from **Ukraine**, passionate about crafting clean and performant web interfaces.  
