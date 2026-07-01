@@ -1,7 +1,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=random&text=Full%20Stack%20Developer&reversal=false&section=header&textBg=false&fontColor=fff)
 
 ### 👋 Hello World!  
-I'm a **Frontend Developer** from **Ukraine**, passionate about crafting clean and performant web interfaces.  
+
+Full-Stack Developer (Python | TypeScript | Next.js)
+I professionally develop scalable web applications: from conceptual prototypes to complex B2B and SaaS products. I have 1 year of intensive commercial experience in building full-cycle products, where code quality and speed of feature delivery are top priorities.
 
 ---
 
