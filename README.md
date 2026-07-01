@@ -2,7 +2,6 @@
 
 ### 👋 Hello World!  
 
-Full-Stack Developer (Python | TypeScript | Next.js)<br>
 I professionally develop scalable web applications: from conceptual prototypes to complex B2B and SaaS products.<br> I have 1 year of intensive commercial experience in building full-cycle products, where code quality and speed of feature delivery are top priorities.
 
 ---
