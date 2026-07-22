@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=random&text=Full%20Stack%20Developer&reversal=false&section=header&textBg=false&fontColor=fff)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=random&text=FullStack%20Developer&reversal=false&section=header&textBg=false&fontColor=fff)
 
 ### 👋 Hello World!  
 
@@ -14,6 +14,9 @@ I professionally develop scalable web applications: from conceptual prototypes t
 
 ### 🧠 Leetcode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/StasovskiyAlexey?theme=dark&font=Roboto&ext=contest)
+
+### Codewars
+![Codewars_Stats](URL:https://www.codewars.com/users/rage__1/badges/large)
 
 ---
 
