@@ -16,7 +16,7 @@ I professionally develop scalable web applications: from conceptual prototypes t
 ![LeetCode Stats](https://leetcard.jacoblin.cool/StasovskiyAlexey?theme=dark&font=Roboto&ext=contest)
 
 ### Codewars
-![Codewars_Stats](URL:https://www.codewars.com/users/rage__1/badges/large)
+![Codewars_Stats](https://www.codewars.com/users/rage__1/badges/large)
 
 ---
 
